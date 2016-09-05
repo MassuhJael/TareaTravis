@@ -47,6 +47,8 @@ class CLista
         System.out.println("\t\t\t------------------------------------");
         System.out.println("\t\t\tDigite una opción:");
         System.out.println("Ingieneria en Software MJZR");
+         System.out.println("Ingieneria en Software 2");
+        
         
         int opcion = entrada.nextInt(); 
         Opciones(opcion);
